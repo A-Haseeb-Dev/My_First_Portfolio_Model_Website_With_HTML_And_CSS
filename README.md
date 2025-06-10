@@ -45,28 +45,28 @@ Follow these steps to view the website locally:
 
 My_First_Portfolio_Model_Website_With_HTML_And_CSS/
 │
-├── assets<br>
-│   ├── css/
-│   │   ├── base/            # Base styles and resets
-│   │   │   └── reset.css
-│   │   ├── components/      # Reusable UI components
-│   │   │   ├── buttons.css
-│   │   │   ├── cards.css
-│   │   │   └── navigation.css
-│   │   ├── layouts/         # Page layout structures
-│   │   │   ├── header.css
-│   │   │   ├── footer.css
-│   │   │   └── grid.css
-│   │   ├── utilities/       # Helper classes
-│   │   │   ├── animations.css
-│   │   │   └── spacing.css
-│   │   └── main.css         # Primary stylesheet
-│   │
-│   └── images/              # Optimized assets
-│       ├── projects/        # Project screenshots
-│       ├── logos/           # Technology logos
-│       └── profile/         # Profile images
-│
-├── index.html               # Main entry point
-├── LICENSE                  # MIT License
-└── README.md                # Project documentation
+├── assets <br>
+│   ├── css <br>
+│   │   ├── base/            # Base styles and resets <br>
+│   │   │   └── reset.css <br>
+│   │   ├── components/      # Reusable UI components <br>
+│   │   │   ├── buttons.css <br>
+│   │   │   ├── cards.css <br>
+│   │   │   └── navigation.css <br>
+│   │   ├── layouts/         # Page layout structures <br>
+│   │   │   ├── header.css <br>
+│   │   │   ├── footer.css <br>
+│   │   │   └── grid.css <br>
+│   │   ├── utilities/       # Helper classes <br>
+│   │   │   ├── animations.css <br>
+│   │   │   └── spacing.css <br>
+│   │   └── main.css         # Primary stylesheet <br>
+│   │ <br>
+│   └── images/              # Optimized assets <br>
+│       ├── projects/        # Project screenshots <br>
+│       ├── logos/           # Technology logos <br>
+│       └── profile/         # Profile images <br>
+│ <br>
+├── index.html               # Main entry point <br>
+├── LICENSE                  # MIT License <br>
+└── README.md                # Project documentation <br>
