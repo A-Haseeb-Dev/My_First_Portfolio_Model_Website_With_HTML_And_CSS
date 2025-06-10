@@ -1,4 +1,3 @@
-```markdown
 # Professional Developer Portfolio
 
 [![GitHub issues](https://img.shields.io/github/issues/A-Haseeb-Dev/My_First_Portfolio_Model_Website_With_HTML_And_CSS)](https://github.com/A-Haseeb-Dev/My_First_Portfolio_Model_Website_With_HTML_And_CSS/issues)
@@ -47,7 +46,6 @@ start index.html
 
 # Open in default browser (macOS)
 open index.html
-```
 
 ## Project Structure
 
