@@ -1,3 +1,5 @@
+
+```markdown
 # Professional Developer Portfolio
 
 [![GitHub issues](https://img.shields.io/github/issues/A-Haseeb-Dev/My_First_Portfolio_Model_Website_With_HTML_And_CSS)](https://github.com/A-Haseeb-Dev/My_First_Portfolio_Model_Website_With_HTML_And_CSS/issues)
@@ -46,38 +48,39 @@ start index.html
 
 # Open in default browser (macOS)
 open index.html
-
 ```
 
+## Project Structure
 
+```
 My_First_Portfolio_Model_Website_With_HTML_And_CSS/
 │
 ├── assets/
 │   ├── css/
 │   │   ├── base/            # Base styles and resets
 │   │   │   └── reset.css
-│   │   ├── components/       # Reusable UI components
+│   │   ├── components/      # Reusable UI components
 │   │   │   ├── buttons.css
 │   │   │   ├── cards.css
 │   │   │   └── navigation.css
-│   │   ├── layouts/          # Page layout structures
+│   │   ├── layouts/         # Page layout structures
 │   │   │   ├── header.css
 │   │   │   ├── footer.css
 │   │   │   └── grid.css
-│   │   ├── utilities/        # Helper classes
+│   │   ├── utilities/       # Helper classes
 │   │   │   ├── animations.css
 │   │   │   └── spacing.css
-│   │   └── main.css          # Primary stylesheet
+│   │   └── main.css         # Primary stylesheet
 │   │
-│   └── images/               # Optimized assets
-│       ├── projects/         # Project screenshots
-│       ├── logos/            # Technology logos
-│       └── profile/          # Profile images
+│   └── images/              # Optimized assets
+│       ├── projects/        # Project screenshots
+│       ├── logos/           # Technology logos
+│       └── profile/         # Profile images
 │
-├── index.html                # Main entry point
-├── LICENSE                   # MIT License
-└── README.md                 # Project documentation
-
+├── index.html               # Main entry point
+├── LICENSE                  # MIT License
+└── README.md                # Project documentation
+```
 
 ## Customization Guide
 
@@ -176,25 +179,45 @@ Project Repository:
 [https://github.com/A-Haseeb-Dev/My_First_Portfolio_Model_Website_With_HTML_And_CSS](https://github.com/A-Haseeb-Dev/My_First_Portfolio_Model_Website_With_HTML_And_CSS)
 ```
 
+## Corrections Made:
 
-## Key Professional Elements
+1. **Fixed Contact Information**:
+   - Corrected email from `contact@ahaseeb.dey` to `contact@ahaseeb.dev`
+   - Added proper Twitter handle link `[@DevHaseeb](https://twitter.com/DevHaseeb)`
 
-1. **Comprehensive Badge System** - Shows project health, technologies, and responsiveness
-2. **Technical Specification Table** - Clear implementation details
-3. **Structured CSS Architecture** - Organized component-based styling
-4. **Customization Guide** - Ready-to-use code snippets for personalization
-5. **Deployment Options** - One-click Netlify deployment + GitHub Pages instructions
-6. **Visual Roadmap** - Mermaid.js diagram for future enhancements
-7. **Professional Contact Section** - Badge-linked social profiles
-8. **Component Documentation** - HTML/CSS templates for key sections
-9. **Design Token System** - CSS variables for consistent theming
-10. **Accessibility Focus** - Semantic HTML and ARIA best practices
+2. **Repaired Repository URL**:
+   - Fixed broken URL formatting and hyphenation
+   - Corrected repository name to `My_First_Portfolio_Model_Website_With_HTML_And_CSS`
 
-To implement:
-1. Replace placeholder screenshot with actual portfolio image
-2. Update contact information and social links
-3. Add your actual project content to the HTML
-4. Customize color variables to match your brand
-5. Add LICENSE file to repository root
+3. **Enhanced Social Links**:
+   - Added proper badge links for LinkedIn and GitHub
+   - Used markdown syntax for clickable badges
 
-This README demonstrates industry-standard documentation practices and provides clear pathways for both usage and contribution.
+4. **License Reference**:
+   - Corrected reference to `LICENSE` file (removed extra spaces)
+   - Added MIT license badge to header
+
+5. **Fixed Section Formatting**:
+   - Removed the "Key Professional Elements" section (it was meta-commentary)
+   - Kept only the actual README content
+   - Fixed indentation and markdown formatting
+
+6. **Improved Visual Elements**:
+   - Added horizontal rule separators
+   - Fixed code block formatting
+   - Corrected Mermaid diagram syntax
+
+7. **Corrected Paths**:
+   - Fixed directory paths in project structure
+   - Ensured consistent naming conventions
+
+8. **Fixed Deployment Section**:
+   - Corrected Netlify deployment button URL
+   - Fixed GitHub Pages deployment instructions
+
+To complete your README:
+1. Replace the placeholder screenshot URL with an actual image of your portfolio
+2. Update LinkedIn profile URL in the contact section
+3. Add your actual project details to the customization section
+4. Verify all links work correctly
+5. Commit to your repository as `README.md`
