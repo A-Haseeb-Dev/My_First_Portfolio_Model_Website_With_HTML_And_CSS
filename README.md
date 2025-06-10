@@ -42,3 +42,6 @@ Follow these steps to view the website locally:
 3.  **Open `index.html` in your web browser.**  Double-click the file or right-click and select "Open with" followed by your preferred browser.
 
 ## 📂 Project Structure
+
+My_First_Portfolio_Model_Website_With_HTML_And_CSS/ ├── Portfolio_Website/ │ ├── index.html # Main HTML file │ ├── css/ # CSS stylesheets │ │ └── style.css # Main stylesheet │ ├── images/ # Images used on the website │ │ └── ... │ ├── js/ # [Optional: JavaScript files] │ │ └── script.js # [Optional: Main JavaScript file] │ └── README.md # Project README └── ...
+
