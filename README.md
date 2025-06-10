@@ -43,5 +43,30 @@ Follow these steps to view the website locally:
 
 ## 📂 Project Structure
 
-My_First_Portfolio_Model_Website_With_HTML_And_CSS/ ├── Portfolio_Website/ │ ├── index.html # Main HTML file │ ├── css/ # CSS stylesheets │ │ └── style.css # Main stylesheet │ ├── images/ # Images used on the website │ │ └── ... │ ├── js/ # [Optional: JavaScript files] │ │ └── script.js # [Optional: Main JavaScript file] │ └── README.md # Project README └── ...
-
+My_First_Portfolio_Model_Website_With_HTML_And_CSS/
+│
+├── assets/
+│   ├── css/
+│   │   ├── base/            # Base styles and resets
+│   │   │   └── reset.css
+│   │   ├── components/      # Reusable UI components
+│   │   │   ├── buttons.css
+│   │   │   ├── cards.css
+│   │   │   └── navigation.css
+│   │   ├── layouts/         # Page layout structures
+│   │   │   ├── header.css
+│   │   │   ├── footer.css
+│   │   │   └── grid.css
+│   │   ├── utilities/       # Helper classes
+│   │   │   ├── animations.css
+│   │   │   └── spacing.css
+│   │   └── main.css         # Primary stylesheet
+│   │
+│   └── images/              # Optimized assets
+│       ├── projects/        # Project screenshots
+│       ├── logos/           # Technology logos
+│       └── profile/         # Profile images
+│
+├── index.html               # Main entry point
+├── LICENSE                  # MIT License
+└── README.md                # Project documentation
