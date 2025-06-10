@@ -43,7 +43,7 @@ Follow these steps to view the website locally:
 
 ## 📂 Project Structure
 
-My_First_Portfolio_Model_Website_With_HTML_And_CSS/
+My_First_Portfolio_Model_Website_With_HTML_And_CSS/ <br>
 │
 ├── assets <br>
 │   ├── css <br>
