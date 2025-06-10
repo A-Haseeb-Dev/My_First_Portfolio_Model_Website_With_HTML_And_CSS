@@ -47,7 +47,6 @@ start index.html
 # Open in default browser (macOS)
 open index.html
 
-
 ```
 
 
@@ -78,6 +77,7 @@ My_First_Portfolio_Model_Website_With_HTML_And_CSS/
 ├── index.html                # Main entry point
 ├── LICENSE                   # MIT License
 └── README.md                 # Project documentation
+
 
 ## Customization Guide
 
